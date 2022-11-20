@@ -25,3 +25,19 @@ Our duty in this analysis is to help the company and Bobby develop a new and cle
 * In addition, from all the employees' roles that are receiving the mentorship program such as Senior Staff, Senior Engineer, Technique Leader, Engineer, Staff, and Assistant Engineer, Senior Staff is the role that stands out the most from the others having a total of 570 mentorship program opportunities.
 
 ## Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
