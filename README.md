@@ -26,6 +26,21 @@ Our duty in this analysis is to help the company and Bobby develop a new and cle
 
 ## Summary
 
+As a final part of the analysis, below we answer two questions that we were asked to demonstrate to the company how many positions will be needed to fill in the future and how good the future performance of the people chosen for the mentoring program will be.
+
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+According to the following code and chart, there will be needed a total of 41,380 roles to be filled as soon as the "silver tsunami" begins to make an impact.
+
+![image](https://user-images.githubusercontent.com/113261292/203444369-102533c5-d40c-480b-bd45-e52720ae7975.png)
+![image](https://user-images.githubusercontent.com/113261292/203444397-f85066e9-5dfe-4df8-b67a-153d9249d5cb.png)
+
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+The total number of employees that were selected to be part of the mentorship program is 1,549, and taking into account that the number of roles to be filled is more than 40,000, it can be said that there are not enough qualified people to be able to teach and train the next generation of Pewlett Hackard employees.
+
+![image](https://user-images.githubusercontent.com/113261292/203444602-46297a8e-6c46-417e-b31b-40aa98afc569.png)
+
 
 
 
